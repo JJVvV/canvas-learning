@@ -43,9 +43,11 @@ var context = canvas.getContext('2d')
 // context.stroke()
 
 // 清除
-context.fillRect(40, 40, 100, 100)
-context.beginPath()
-context.arc(230, 90, 50, Math.PI, Math.PI*2, false)
-context.closePath()
-context.stroke()
-context.clearRect(40, 40, 100, 100)
+// context.fillRect(40, 40, 100, 100)
+// context.beginPath()
+// context.arc(230, 90, 50, Math.PI, Math.PI*2, false)
+// context.closePath()
+// context.stroke()
+// context.clearRect(40, 40, 100, 100)
+
+
